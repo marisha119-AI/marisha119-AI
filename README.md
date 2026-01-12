@@ -1,16 +1,23 @@
-## Hi there 👋
+##👋 Hi, I’m Marisha Dwivedi  
 
-<!--
-**marisha119-AI/marisha119-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate learner in **Python, AI, and Data Applications**, currently building real-world projects using **Streamlit**.
 
-Here are some ideas to get you started:
+### 🔹 What I’m Learning & Working On
+- Python programming
+- Streamlit web applications
+- AI & data-driven projects
+- Hands-on project development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Projects
+- 💰 Smart Expense Tracker (Streamlit)
+- 🤖 AI-based applications (learning phase)
+- 📊 Interactive dashboards
+
+### 🔹 Skills
+- Python
+- Streamlit
+- Pandas
+- Basic AI & Machine Learning concepts
+
+### 📫 Connect with Me
+https://www.linkedin.com/in/marisha-dwivedi-513269271/
