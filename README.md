@@ -1,4 +1,4 @@
-##👋 Hi, I’m Marisha Dwivedi  
+👋 Hi, I’m Marisha Dwivedi  
 
 I am a passionate learner in **Python, AI, and Data Applications**, currently building real-world projects using **Streamlit**.
 
